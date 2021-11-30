@@ -1,0 +1,10 @@
+container: idish
+property: xususiyat
+value: qiymat
+default: oldindan berilgan
+waiter: xizmatchi
+code: kod
+variant: talqin
+pointer: ko'rsatgich
+
+shunaqa qo'p?
